@@ -1,0 +1,44 @@
+;This is the command kernel for spk merge of Opportunity data
+LEAPSECONDS_KERNEL	=/home/sanket/Documents/Data/curiosityData/curiositySpiceData2016_2017/mslsp_1000/data/lsk/naif0012.tls
+SPK_KERNEL              =/home/sanket/Documents/Data/curiosityData/curiositySpiceData2016_2017/mslsp_1000/data/spk/mergedOpportunityData.spk
+	SOURCE_SPK_KERNEL	=/home/sanket/Documents/Data/curiosityData/curiositySpiceData2016_2017/mslsp_1000/data/spk/de425s.bsp
+	INCLUDE_COMMENTS	=yes
+	SOURCE_SPK_KERNEL	=/home/sanket/Documents/Data/curiosityData/curiositySpiceData2016_2017/mslsp_1000/data/spk/mar085s.bsp
+	INCLUDE_COMMENTS	=yes
+	SOURCE_SPK_KERNEL	=/home/sanket/Documents/Data/curiosityData/curiositySpiceData2016_2017/mslsp_1000/data/spk/msl_ls_ops120808_iau2000_v1.bsp
+	INCLUDE_COMMENTS	=yes
+	SOURCE_SPK_KERNEL	=/home/sanket/Documents/Data/curiosityData/curiositySpiceData2016_2017/mslsp_1000/data/spk/msl_struct_v02.bsp
+	INCLUDE_COMMENTS	=yes
+	SOURCE_SPK_KERNEL	=/home/sanket/Documents/Data/curiosityData/curiositySpiceData2016_2017/mslsp_1000/data/spk/msl_surf_rover_tlm_0000_0089_v1.bsp
+	INCLUDE_COMMENTS	=yes
+	SOURCE_SPK_KERNEL	=/home/sanket/Documents/Data/curiosityData/curiositySpiceData2016_2017/mslsp_1000/data/spk/msl_surf_rover_tlm_0089_0179_v1.bsp
+	INCLUDE_COMMENTS	=yes
+	SOURCE_SPK_KERNEL	=/home/sanket/Documents/Data/curiosityData/curiositySpiceData2016_2017/mslsp_1000/data/spk/msl_surf_rover_tlm_0179_0269_v1.bsp
+	INCLUDE_COMMENTS	=yes
+	SOURCE_SPK_KERNEL	=/home/sanket/Documents/Data/curiosityData/curiositySpiceData2016_2017/mslsp_1000/data/spk/msl_surf_rover_tlm_0269_0359_v1.bsp
+	INCLUDE_COMMENTS	=yes
+	SOURCE_SPK_KERNEL	=/home/sanket/Documents/Data/curiosityData/curiositySpiceData2016_2017/mslsp_1000/data/spk/msl_surf_rover_tlm_0359_0449_v1.bsp
+	INCLUDE_COMMENTS	=yes
+	SOURCE_SPK_KERNEL	=/home/sanket/Documents/Data/curiosityData/curiositySpiceData2016_2017/mslsp_1000/data/spk/msl_surf_rover_tlm_0449_0583_v1.bsp
+	INCLUDE_COMMENTS	=yes
+	SOURCE_SPK_KERNEL	=/home/sanket/Documents/Data/curiosityData/curiositySpiceData2016_2017/mslsp_1000/data/spk/msl_surf_rover_tlm_0583_0707_v1.bsp
+	INCLUDE_COMMENTS	=yes
+	SOURCE_SPK_KERNEL	=/home/sanket/Documents/Data/curiosityData/curiositySpiceData2016_2017/mslsp_1000/data/spk/msl_surf_rover_tlm_0707_0804_v1.bsp
+	INCLUDE_COMMENTS	=yes
+	SOURCE_SPK_KERNEL	=/home/sanket/Documents/Data/curiosityData/curiositySpiceData2016_2017/mslsp_1000/data/spk/msl_surf_rover_tlm_0804_0938_v1.bsp
+	INCLUDE_COMMENTS	=yes
+	SOURCE_SPK_KERNEL	=/home/sanket/Documents/Data/curiosityData/curiositySpiceData2016_2017/mslsp_1000/data/spk/msl_surf_rover_tlm_0938_1062_v1.bsp
+	INCLUDE_COMMENTS	=yes
+	SOURCE_SPK_KERNEL	=/home/sanket/Documents/Data/curiosityData/curiositySpiceData2016_2017/mslsp_1000/data/spk/msl_surf_rover_tlm_1062_1159_v1.bsp
+	INCLUDE_COMMENTS	=yes
+	SOURCE_SPK_KERNEL	=/home/sanket/Documents/Data/curiosityData/curiositySpiceData2016_2017/mslsp_1000/data/spk/msl_surf_rover_tlm_1159_1293_v1.bsp
+	INCLUDE_COMMENTS	=yes
+	SOURCE_SPK_KERNEL	=/home/sanket/Documents/Data/curiosityData/curiositySpiceData2016_2017/mslsp_1000/data/spk/msl_surf_rover_tlm_1293_1417_v1.bsp
+	INCLUDE_COMMENTS	=yes
+	SOURCE_SPK_KERNEL	=/home/sanket/Documents/Data/curiosityData/curiositySpiceData2016_2017/mslsp_1000/data/spk/msl_surf_rover_tlm_1417_1514_v1.bsp
+	INCLUDE_COMMENTS	=yes
+	SOURCE_SPK_KERNEL	=/home/sanket/Documents/Data/curiosityData/curiositySpiceData2016_2017/mslsp_1000/data/spk/msl_surf_rover_tlm_1514_1648_v1.bsp
+	INCLUDE_COMMENTS	=yes
+
+
+

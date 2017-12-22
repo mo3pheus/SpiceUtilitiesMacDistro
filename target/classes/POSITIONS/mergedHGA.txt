@@ -1,0 +1,13 @@
+	
+;This is the command to merge hga ck kernels for curiosity.
+LEAPSECONDS_KERNEL	=/home/sanket/Documents/Data/curiosityData/curiositySpiceData2016_2017/mslsp_1000/data/lsk/naif0012.tls
+SPK_KERNEL              =/home/sanket/Documents/C-Workspace/MSL/POSITIONS/mergedCuriosityHGA.spk
+	SOURCE_SPK_KERNEL	=/home/sanket/Documents/workspace/SpiceUtilities/src/main/resources/mslsp_1000/data/ck/msl_surf_hga_tlm_1159_1293_v1.bc
+	INCLUDE_COMMENTS	=yes
+	SOURCE_SPK_KERNEL	=/home/sanket/Documents/workspace/SpiceUtilities/src/main/resources/mslsp_1000/data/ck/msl_surf_hga_tlm_1293_1417_v1.bc
+	INCLUDE_COMMENTS	=yes
+	SOURCE_SPK_KERNEL	=/home/sanket/Documents/workspace/SpiceUtilities/src/main/resources/mslsp_1000/data/ck/msl_surf_hga_tlm_1417_1514_v1.bc
+	INCLUDE_COMMENTS	=yes
+	SOURCE_SPK_KERNEL	=/home/sanket/Documents/workspace/SpiceUtilities/src/main/resources/mslsp_1000/data/ck/msl_surf_hga_tlm_1514_1648_v1.bc
+	INCLUDE_COMMENTS	=yes
+

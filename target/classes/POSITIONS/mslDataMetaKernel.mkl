@@ -1,0 +1,23 @@
+KPL/MK
+
+      This is the meta-kernel used in the solution of the `PositionCalc'
+      task in the SpiceUtils library for MarsRover.
+
+      The names and contents of the kernels referenced by this
+      meta-kernel are as follows:
+
+      File name                      	Contents
+      --------------------------  	-----------------------------
+      naif0012.tls                	Generic LSK
+      msl_76_sclkscet_refit_n4.tsc      Curiosity SCLK
+      981005_PLTEPH-DE405S.bsp		Solar System Ephemeris
+      mergedCuriosityData.spk      	Merged Curiosity Data Kernel 
+
+
+      \begindata
+      KERNELS_TO_LOAD = ( '/home/sanket/Documents/Data/curiosityData/curiositySpiceData2016_2017/mslsp_1000/data/lsk/naif0012.tls',
+                          '/home/sanket/Documents/Data/curiosityData/curiositySpiceData2016_2017/mslsp_1000/data/sclk/msl_76_sclkscet_refit_n4.tsc',
+			'/home/sanket/Documents/workspace/SpiceUtilities/src/main/resources/mslsp_1000/data/spk/mergedCuriosityData.spk'	
+			 )
+      \begintext
+

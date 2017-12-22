@@ -1,0 +1,20 @@
+
+KPL/MK
+
+      This is the meta-kernel used in the solution of the ``Time
+      Conversion'' task in the Remote Sensing Hands On Lesson.
+
+      The names and contents of the kernels referenced by this
+      meta-kernel are as follows:
+
+      File name                   Contents
+      --------------------------  -----------------------------
+      naif0012.tls                Generic LSK
+      msl_76_sclkcset_refit_n4.tsc
+				  Curiosity SCLK SpaceCraftEventTime refit
+
+      \begindata
+      KERNELS_TO_LOAD = ( '/home/sanket/Documents/Data/curiosityData/curiositySpiceData2016_2017/mslsp_1000/data/lsk/naif0012.tls',
+                          '/home/sanket/Documents/Data/curiosityData/curiositySpiceData2016_2017/mslsp_1000/data/sclk/msl_76_sclkscet_refit_n4.tsc' )
+      \begintext
+
