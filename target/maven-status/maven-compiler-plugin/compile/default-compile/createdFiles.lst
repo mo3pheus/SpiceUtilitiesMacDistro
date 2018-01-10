@@ -166,6 +166,7 @@ spice/tspice/TestRotationAndAV.class
 space/exploration/spice/utilities/TimeUtils.class
 spice/tspice/TestOccultationCode.class
 spice/tspice/TestEllipse.class
+space/exploration/spice/utilities/EphemerisConversionUtil$SCHEMA.class
 spice/tspice/TestEllipsoidPlaneIntercept.class
 spice/tspice/TestRayEllipsoidIntercept.class
 spice/basic/BodyName.class
@@ -234,6 +235,7 @@ spice/tspice/TestEllipsePlaneIntercept.class
 spice/basic/KernelVarDescriptor.class
 spice/tspice/TestSCLKDuration.class
 spice/basic/GFRangeRateSearch.class
+space/exploration/spice/utilities/EphemerisConversionUtil.class
 spice/tspice/TestKernelPool.class
 spice/basic/SurfaceIntercept$Inputs.class
 spice/tspice/TestKernelDatabase.class
